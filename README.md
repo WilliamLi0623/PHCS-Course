@@ -6,4 +6,4 @@ If you have any questions, feel free to open an issue, or contact the club presi
 - [Lecture 1](https://github.com/WilliamLi0623/PHCS-Course/tree/CS101/Lecture%201)
   - Introduced basic syntax of C++, input and output functions, and operators.
 - [Lecture 2](https://github.com/WilliamLi0623/PHCS-Course/tree/CS101/Lecture%202)
-  - Introduced ''for'' loops, 'if' 'else' branches, and arrays.
+  - Introduced `for` loops, `if` `else` branches, and arrays.
