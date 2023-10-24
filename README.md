@@ -7,3 +7,6 @@ If you have any questions, feel free to open an issue, or contact the club presi
   - Introduced basic syntax of C++, input and output functions, and operators.
 - [Lecture 2](https://github.com/WilliamLi0623/PHCS-Course/tree/49bccce534ef7f41f1fdce88e249de82860bfb74/CS101/Lecture%202)
   - Introduced `for` loops, `if` `else` branches, `switch` branches, and arrays.
+
+# Contributors
+![Alt](https://repobeats.axiom.co/api/embed/2fd2e2afd7790e71d9c9e8e52389ae6579bbcbbc.svg "Repobeats analytics image")
