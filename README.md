@@ -10,3 +10,12 @@ If you have any questions, feel free to open an issue, or contact the club presi
 
 # Contributors
 ![Alt](https://repobeats.axiom.co/api/embed/2fd2e2afd7790e71d9c9e8e52389ae6579bbcbbc.svg "Repobeats analytics image")
+## Star History
+
+<a href="https://star-history.com/#WilliamLi0623/PHCS-Course&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=WilliamLi0623/PHCS-Course&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=WilliamLi0623/PHCS-Course&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=WilliamLi0623/PHCS-Course&type=Date" />
+  </picture>
+</a>
